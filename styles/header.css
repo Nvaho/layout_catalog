@@ -1,0 +1,24 @@
+.header {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+  height: 60px;
+  margin: 0 auto;
+  padding: 0 50px;
+  -webkit-box-shadow: 0 10px 10px whitesmoke;
+          box-shadow: 0 10px 10px whitesmoke; }
+
+.header-logo {
+  width: 40px;
+  height: 40px; }
+
+/*# sourceMappingURL=header.css.map */
